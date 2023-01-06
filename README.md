@@ -1,6 +1,12 @@
 # Retail-analysis
 Анализ продаж онлайн-розничной торговли: поиск точек роста,  составление рекомендаций стейкхолдерам, построение предиктивной модели.
 
+Анализ данных при помощи Python в файле https://github.com/suleymanovan/Retail-analysis/blob/main/Retail_Analysis_Project.ipynb
+
+Дашборд, выполненный в Google Data Studio https://github.com/suleymanovan/Retail-analysis/blob/main/Dashboard_Analysis.pdf
+
+Презентация анализа в Power point https://github.com/suleymanovan/Retail-analysis/blob/main/Dashboard_Analysis.pdf
+
 1. Введение.
 
 В данной дипломной работе мною был проделан анализ набора данных, который содержит все транзакции онлайн торговли со следующими атрибутами:
@@ -189,9 +195,3 @@ DATA
 * Создание службы customer service для работы с ТОП клиентами для повышения уровня сервиса/удовлетворенности;
 * Supply Chain Management - планирование поставок. Используя данные по продажам за предыдущие периоды и оптимизационные алгоритмы, автоматически определять спрос на товарные запасы и формировать логистические цепочки поставок, в результате - снижать ошибки при прогнозировании спроса, снижать убытки от хранения избыточных запасов.
 
-6. Список источников:
-
-* Сайт www.kaggle.com 
-* Сайт www.machinelearningmastery.ru
-* Сайт www.habr.com
-* Сайт www.blog.ingate.ru/detail/33-metriki-digital-marketinga.
